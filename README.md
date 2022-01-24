@@ -16,4 +16,4 @@ TPS Gun System (very old and i could do much better now)
 ## Reviews
 
 "Very good programmer who sometimes does his job, 5/5 stars" - GemNetx, owner of Amery Corporation
-"Fuck" - GemNetx 2022
+"Fuck" - GemNetx 2022, owner of Amery Corporation
