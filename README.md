@@ -4,7 +4,7 @@
 
 Amery Corporation: Lead Programmer | September 2021 - Present
  - Link: [Amery Corporation - Roblox](https://www.roblox.com/groups/8234266/Amery-Corporation#!/about)
-
+---
 ## Showcases
 
 Missile Testing
@@ -12,14 +12,13 @@ Missile Testing
 
 TPS Gun System (very old and i could do much better now)
 - Link: [TPS Gun System - Roblox](https://www.roblox.com/games/6540765133/Project-Tartarus)
-
+---
 ## Reviews
 
 "Very good programmer who sometimes does his job, 5/5 stars" - GemNetx, owner of Amery Corporation
-
-![  ](https://grabify.link/E4DK4E "")
-
+---
 ## Contact
+
 You may contact me via:
 ccp@ashy.wtf
 or
