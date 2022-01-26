@@ -4,8 +4,9 @@
 
 ## Previous Experience
 
-Amery Corporation: Lead Programmer | September 2021 - Present
- - Link: [Amery Corporation - Roblox](https://www.roblox.com/groups/8234266/Amery-Corporation#!/about)
+Amery Corporation: Lead Programmer | September 2021 - Present 
+ - Responsible for all scripting aspects of the game. Door systems, viruses, guns, etc. were all handled by me in Underground and 001
+    - Link: [Amery Corporation - Roblox](https://www.roblox.com/groups/8234266/Amery-Corporation#!/about)
 
 ---
 
