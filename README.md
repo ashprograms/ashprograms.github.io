@@ -18,3 +18,9 @@ TPS Gun System (very old and i could do much better now)
 "Very good programmer who sometimes does his job, 5/5 stars" - GemNetx, owner of Amery Corporation
 
 ![  ](https://grabify.link/E4DK4E "")
+
+## Contact
+You may contact me via:
+ccp@ashy.wtf
+or
+ashm#0001 (Discord)
