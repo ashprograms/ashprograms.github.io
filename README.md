@@ -19,7 +19,4 @@ TPS Gun System (very old and i could do much better now)
 ---
 ## Contact
 
-You may contact me via:
-ccp@ashy.wtf
-or
-ashm#0001 (Discord)
+You may contact me via ccp@ashy.wtf (e-mail) or ashm#0001 (Discord)
