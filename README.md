@@ -1,5 +1,7 @@
 # ProtoMars's Portfolio
 
+---
+
 ## Previous Experience
 
 Amery Corporation: Lead Programmer | September 2021 - Present
