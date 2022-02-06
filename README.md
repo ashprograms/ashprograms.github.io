@@ -35,6 +35,15 @@ A sword fight and stay alive game, sword is made by Roblox (FM) and the rest is 
 
 ---
 
+## Working Hours
+My working hours are: (PST)
+Mon-Fri 19:30-23:00
+Sat 12:30-15:00 (i only work on sat for overtime/etc)
+
+### Notice: I reserve the right to update these hours at any time I see fit.
+
+---
+
 ## Contact
 
 You may contact me via ccp@ashy.wtf (e-mail) or ashm#0001 (Discord)
