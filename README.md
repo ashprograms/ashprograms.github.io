@@ -18,6 +18,15 @@ Missile Testing
 TPS Gun System (very old and i could do much better now)
 - Link: [TPS Gun System - Roblox](https://www.roblox.com/games/6540765133/Project-Tartarus)
 
+Messing with PathfindingService (cause why the heck not)
+- Link: [pathfinding demo - Roblox](https://www.roblox.com/games/7038267227/pathfinding-demo)
+
+A lag test game, made this when they were all the hype. Code is open as well!
+- Link: [Lag Test - Roblox](https://www.roblox.com/games/6868092600/Lag-Test-OPEN-SOURCE)
+
+A sword fight and stay alive game, sword is made by Roblox (FM) and the rest is me. Time data saves. (in theory)
+- Link: [Sword Fight and Stay Alive - Roblox](https://www.roblox.com/games/7138137169/Sword-Fight-and-Stay-Alive)
+
 ---
 
 ## Reviews
