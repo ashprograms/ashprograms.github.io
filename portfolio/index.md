@@ -3,6 +3,20 @@ Programming portfolio for ProtoMars
 
 ---
 
+## Skills
+
+My skills include:
+
+- Advanced programming
+ - I have been programming on Roblox in LuaU for 4 years, and mainly focus on backend.
+  - Discord integration: I work a lot with integrating Discord w/ Roblox.
+  - Other skills: intermediate python, very basic C and C#, basic HTML and CSS
+
+- Very basic animation
+ - I have been doing some very basic animations for a few months now. While I can do these, I don't market myself as an animator.
+
+---
+
 ## Previous Experience
 
 Amery Corporation: Lead Programmer | September 2021 - Present 
@@ -28,7 +42,7 @@ A lag test game, made this when they were all the hype. Code is open as well!
 A sword fight and stay alive game, sword is made by Roblox (FM) and the rest is me. Time data saves. (in theory)
 - Link: [Sword Fight and Stay Alive - Roblox](https://www.roblox.com/games/7138137169/Sword-Fight-and-Stay-Alive)
 
-A morph testing game that uses accessories instead of parts/meshparts (see desc for commands)
+A morph testing game that uses accessories instead of parts w/ welds or etc (see desc for commands)
 - Link: [Morph Testing - Roblox](https://www.roblox.com/games/8747645850/Untitled-Game)
 
 ---
@@ -44,7 +58,9 @@ My working hours are: (PST)
 - Mon-Fri 19:30-23:00
 - Sat 12:30-15:00 (i only work on sat for overtime/etc)
 
-### Notice: I reserve the right to update these hours at any time I see fit.
+These aren't hard hours, I may go over these hours or under at times.
+
+###### Notice: I reserve the right to update these hours at any time I see fit.
 
 ---
 
