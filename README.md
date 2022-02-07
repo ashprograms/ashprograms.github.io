@@ -4,8 +4,8 @@
 
 ## I store many things here. Please view the directory:
 
-[Portfolio](https://ashprograms.github.io/portfolio/) - My portfolio
-[Common Error Codes](https://ashprograms.github.io/error-codes/) - Error codes for games that I work on (always start with PM$)
+- [Portfolio](https://ashprograms.github.io/portfolio/) - My portfolio
+- [Common Error Codes](https://ashprograms.github.io/error-codes/) - Error codes for games that I work on (always start with PM$)
 
 ---
 
