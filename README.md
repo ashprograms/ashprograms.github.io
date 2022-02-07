@@ -10,8 +10,8 @@
 ---
 
 ## Contact Me
+
 I can be reached via:
-Discord - ashm#0001 (ID: 755174573296713730)
-EMail - ccp@ashy.wtf
 
-
+1. EMail - ccp@ashy.wtf
+2. Discord - ashm#0001 (ID: 755174573296713730)
