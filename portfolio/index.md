@@ -3,17 +3,35 @@ Programming portfolio for ProtoMars
 
 ---
 
+## About me
+
+Hello! I am Ash or ProtoMars, and I am a 13 year old self-taught programmer. I work a lot with Roblox, and I enjoy doing backend work.
+I've always had a passion for programming, and have loved it since an early age. (i started using scratch when i was about 5 and a half or 6!)
+I have a lot of experience with Linux, and have been using it since I was 12. (distro i started with and still use to this day is arch)
+I like to make games and Discord bots in my free time. I also am interested in AI and machine learning/algorithms.
+
+I try to make myself available to program whenever I can, and genuinely enjoy my work.
+Thank you for your interest!
+
+---
+
 ## Skills
 
 My skills include:
 
-- Advanced programming
- - I have been programming on Roblox in LuaU for 4 years, and mainly focus on backend.
-  - Discord integration: I work a lot with integrating Discord w/ Roblox.
-  - Other skills: intermediate python, very basic C and C#, basic HTML and CSS
+**Advanced programming**
+ - I have been programming on Roblox in LuaU for 4 years, and mainly focus on backend. I work a lot with datastores as well.
+ - Discord integration: I work a lot with integrating Discord w/ Roblox.
 
-- Very basic animation
- - I have been doing some very basic animations for a few months now. While I can do these, I don't market myself as an animator.
+**Very basic animation**
+- I have been doing some very basic animations for a few months now. While I can do these, I don't market myself as an animator.
+
+**Other Skills**
+ - Intermediate Python
+ - Linux (i daily drive arch)
+ - GitHub
+ - Very basic C
+ - Basic HTML / CSS
 
 ---
 
