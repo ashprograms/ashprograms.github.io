@@ -1,6 +1,6 @@
 layout: page
 title: "Error Codes"
-permalink: /etc/error-codes/
+permalink: /error-codes/
 
 # Error Codes
 
