@@ -6,6 +6,7 @@
 
 - [Portfolio](https://ashprograms.github.io/portfolio/) - My portfolio
 - [Common Error Codes](https://ashprograms.github.io/error-codes/) - Error codes for games that I work on (always start with PM$)
+- [Discord Server](https://ashprograms.github.io/discord/) - Join my Discord server, cause why not (this is not optional, i am outside your window)
 
 ---
 
