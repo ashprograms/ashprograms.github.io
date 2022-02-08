@@ -72,13 +72,13 @@ A morph testing game that uses accessories instead of parts w/ welds or etc (see
 ---
 
 ## Working Hours
-*all times in PST*
 My working hours are:
 - Mon-Fri 19:30-23:00
 - Sat 12:30-15:00 (i only work on sat for overtime/etc)
 
 These aren't hard hours, I may go over these hours or under at times.
 
+*all times in PST/ los angeles time*
 ###### Notice: I reserve the right to update these hours at any time I see fit.
 
 ---
