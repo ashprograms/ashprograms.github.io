@@ -51,8 +51,8 @@ Interaction System Testing
 Missile Testing
 - Link: [Missile Testing - Roblox](https://www.roblox.com/games/7062804647/Missile-Testing-TZF)
 
-TPS Gun System (very old and i could do much better now)
-- Link: [TPS Gun System - Roblox](https://www.roblox.com/games/6540765133/Project-Tartarus)
+New and cool OTS gun system
+- Link: [Firefight OTS Testing - Roblox](https://www.roblox.com/games/9307820083/Firefight-OTS-Testing)
 
 Messing with PathfindingService (cause why the heck not)
 - Link: [pathfinding demo - Roblox](https://www.roblox.com/games/7038267227/pathfinding-demo)
