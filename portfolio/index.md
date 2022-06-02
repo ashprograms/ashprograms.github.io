@@ -5,12 +5,9 @@ Programming portfolio for ProtoMars
 
 ## About me
 
-Hello! I am Ash or ProtoMars, and I am a 13 year old self-taught programmer. I work a lot with Roblox, and I enjoy doing backend work.
-I've always had a passion for programming, and have loved it since an early age. (i started using scratch when i was about 5 and a half or 6!)
+Hello! I am ProtoMars, and I am a programmer. I work a lot with Roblox, and I enjoy doing backend work.
 I have a lot of experience with Linux, and have been using it since I was 12. (distro i started with and still use to this day is arch)
 I like to make games and Discord bots in my free time. I also am interested in AI and machine learning/algorithms.
-
-I try to make myself available to program whenever I can, and genuinely enjoy my work.
 Thank you for your interest!
 
 ---
@@ -20,11 +17,8 @@ Thank you for your interest!
 My skills include:
 
 **Advanced programming**
- - I have been programming on Roblox in LuaU for 4 years, and mainly focus on backend. I work a lot with datastores as well.
+ - I have been programming on Roblox & LuaU for 4 years, and mainly focus on backend. I work a lot with datastores as well.
  - Discord integration: I work a lot with integrating Discord w/ Roblox.
-
-**Very basic animation**
-- I have been doing some very basic animations for a few months now. While I can do these, I don't market myself as an animator.
 
 **Other Skills**
  - Intermediate Python
@@ -37,7 +31,7 @@ My skills include:
 
 ## Previous Experience
 
-Amery Corporation: Lead Programmer | September 2021 - Present 
+Amery Corporation: Lead Programmer | September 2021 - May 2022 
  - Responsible for all scripting aspects of the game. Door systems, viruses, guns, etc. were all handled by me in Underground and Project Sandfall
     - Link: [Amery Corporation - Roblox](https://www.roblox.com/groups/8234266/Amery-Corporation#!/about)
 
@@ -73,22 +67,10 @@ A SCP-genre tablet for testing
 
 ## Reviews
 
-"Very good programmer who sometimes does his job, 5/5 stars" - GemNetx, owner of Amery Corporation
-
----
-
-## Working Hours
-My working hours are:
-- Mon-Fri 19:30-23:00
-- Sat 12:30-15:00 (i only work on sat for overtime/etc)
-
-These aren't hard hours, I may go over these hours or under at times.
-
-*all times in PST/ los angeles time*
-###### Notice: I reserve the right to update these hours at any time I see fit.
+"Very good programmer" - GemNetx, owner of Amery Corporation
 
 ---
 
 ## Contact
 
-You may contact me via ccp@ashy.wtf (e-mail) or ashm#0001 (Discord)
+You may contact me via ccp@ashy.wtf (e-mail) or BarMars#0001 (Discord)
