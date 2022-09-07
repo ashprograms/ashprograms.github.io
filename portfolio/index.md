@@ -1,14 +1,10 @@
-# ProtoMars's Portfolio
-Programming portfolio for ProtoMars
+# Portfolio
 
 ---
 
 ## About me
 
-Hello! I am ProtoMars, and I am a programmer. I work a lot with Roblox, and I enjoy doing backend work.
-I have a lot of experience with Linux, and have been using it since I was 12. (distro i started with and still use to this day is arch)
-I like to make games and Discord bots in my free time. I also am interested in AI and machine learning/algorithms.
-Thank you for your interest!
+Hello! I'm a programmer, name being ProtoMars. I prefer backend development, but I am a full-stack developer. I'm a Linux user, and I like to work on Python, HTML, and JS in my free time.
 
 ---
 
@@ -17,15 +13,14 @@ Thank you for your interest!
 My skills include:
 
 **Advanced programming**
- - I have been programming on Roblox & LuaU for 4 years, and mainly focus on backend. I work a lot with datastores as well.
- - Discord integration: I work a lot with integrating Discord w/ Roblox.
+ - I have been programming on Roblox for 5 years, and mainly focus on backend. I work a lot with datastores as well.
+ - Discord integration: I work a lot with integrating Discord with Roblox.
 
 **Other Skills**
- - Intermediate Python
- - Linux (i daily drive arch)
+ - Intermediate Python (especially webservers)
+ - Linux (preferred distro is arch
  - GitHub
- - Very basic C
- - Basic HTML / CSS
+ - HTML/CSS
 
 ---
 
@@ -33,7 +28,6 @@ My skills include:
 
 Amery Corporation: Lead Programmer | September 2021 - May 2022 
  - Responsible for all scripting aspects of the game. Door systems, viruses, guns, etc. were all handled by me in Underground and Project Sandfall
-    - Link: [Amery Corporation - Roblox](https://www.roblox.com/groups/8234266/Amery-Corporation#!/about)
 
 ---
 
@@ -48,7 +42,7 @@ Missile Testing
 New and cool OTS gun system
 - Link: [Firefight OTS Testing - Roblox](https://www.roblox.com/games/9307820083/Firefight-OTS-Testing)
 
-Messing with PathfindingService (cause why the heck not)
+Messing with PathfindingService (cause why not)
 - Link: [pathfinding demo - Roblox](https://www.roblox.com/games/7038267227/pathfinding-demo)
 
 A lag test game, made this when they were all the hype. Code is open as well!
@@ -65,12 +59,18 @@ A SCP-genre tablet for testing
 
 ---
 
-## Reviews
+## Testimonials
 
 "Very good programmer" - GemNetx, owner of Amery Corporation
 
 ---
 
+## Languages
+
+I only speak English fluently, but I know a little Spanish and German.
+
+---
+
 ## Contact
 
-You may contact me via ccp@ashy.wtf (e-mail) or BarMars#0001 (Discord)
+You may contact me via protomars@ashy.wtf (e-mail) or BarMars#0001 (Discord)
