@@ -13,5 +13,5 @@
 
 I can be reached via:
 
-1. EMail - ccp@ashy.wtf
-2. Discord - ashm#0001 (ID: 755174573296713730)
+1. EMail - protomars@ashy.wtf
+2. Discord - BarMars#0001
